@@ -41,6 +41,7 @@ Food Delivery Platform UI inspired by real-world apps
 ### 📝 Todo App (Laravel)
 Full CRUD Task Management System with backend logic  
 🖼️ Preview:
+
 <img width="840" height="597" alt="image" src="https://github.com/user-attachments/assets/1d66e0ed-92a6-491a-bce8-a00aeaeb27ee" />
 
 🔗 https://github.com/Bilawal-shah-dev/Todo-App  
@@ -50,6 +51,7 @@ Full CRUD Task Management System with backend logic
 ### 🛒 FurEver Care – Pet Care Website (HTML, CSS, JS)
 Multi-page responsive website for pet services  
 🖼️ Preview: 
+
 <img width="1365" height="602" alt="image" src="https://github.com/user-attachments/assets/02cad24a-a7b9-43d3-8f7d-9d36ece9c0d7" />
 
 🌐 Live Demo: ([FurEver-Care](https://bilawal-shah-dev.github.io/FurEver-Care))
