@@ -2,7 +2,7 @@
 <h3 align="center">💻 Aspiring Software Engineer | 🚀 Future Tech Entrepreneur</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Web+Developer;UI%2FUX+Designer;Future+Software+Engineer;Building+Real+World+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Engineer;Web+Developer;UI%2FUX+Designer;Future+Software+Engineer;Building+Real+World+Projects&center=true&width=500&height=50">
 </p>
 
 ---
