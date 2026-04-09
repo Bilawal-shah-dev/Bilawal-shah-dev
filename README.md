@@ -40,7 +40,8 @@ Food Delivery Platform UI inspired by real-world apps
 
 ### 📝 Todo App (Laravel)
 Full CRUD Task Management System with backend logic  
-🖼️ Preview: <img width="840" height="597" alt="image" src="https://github.com/user-attachments/assets/1d66e0ed-92a6-491a-bce8-a00aeaeb27ee" />
+🖼️ Preview:
+<img width="840" height="597" alt="image" src="https://github.com/user-attachments/assets/1d66e0ed-92a6-491a-bce8-a00aeaeb27ee" />
 
 🔗 https://github.com/Bilawal-shah-dev/Todo-App  
 
